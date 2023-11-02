@@ -1,0 +1,21 @@
+Array:
+	*Storing a multiple values in a single variable
+	*It is non-primitive data type
+syntax:
+	Datatype variablename[] = new Datatype[length];
+	(eg)
+		int a[] = new int [3];
+		length :  1 2 3;
+		index : 0 1 2;
+
+Features:
+	*It supports similar datatype
+	*It is index based
+	*Index starts from
+	*where n = length
+
+Disadvantages:
+	*It will support similar datatype only
+	*It has fixed length
+	*It has high memory wastage	
+	*But it can be overcome by collection
